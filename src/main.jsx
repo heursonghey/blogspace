@@ -14,7 +14,10 @@ import WriteCreat from './components/WriteCreat.jsx';
 import Categories from './components/Categories.jsx';
 import Card from './components/Card.jsx';
 import Profile from './components/Profile.jsx';
-import Register from './components/register.jsx';
+
+import Register from "./components/Register.jsx";
+
+
 import ProfilePictureUploader from'./components/Profile.jsx'
 import BookmarkPage from'./components/Bookmark.jsx'
 import WriteCreate from './components/WriteCreat.jsx';

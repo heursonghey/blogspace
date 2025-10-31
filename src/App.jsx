@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import Navbar from "./components/Navbar";
 import Sidebar from "./components/Sidebar";
 import Creat from "./components/Creat";
-import Register from "./components/register";
+import Register from "./components/Register";
 import Login from "./components/Login";
 import WriteCreat from "./components/WriteCreat";
 import Homepage from "./page/Homepage";
